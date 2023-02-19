@@ -57,7 +57,7 @@ public class CustomerApplication
 
         customerRepository.save(updateCustomer);
     }
-
+//region depre
 //    @GetMapping("/")
 //    @ResponseBody
 //    public String root(){
@@ -113,4 +113,5 @@ public class CustomerApplication
 //            return Objects.hash(greet);
 //        }
 //    }
+//endregion
 }
