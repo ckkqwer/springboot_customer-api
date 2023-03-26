@@ -1,3 +1,3 @@
-# Spring-Boot-Customer
+# springboot_customer-api
 
-Follow: https://youtu.be/-mwpoE0x0JQ
+Practice project in Spring Boot following a tutorial in Amigoscode https://youtu.be/-mwpoE0x0JQ
